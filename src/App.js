@@ -8,7 +8,7 @@ function App() {
     <ChakraProvider>
       <Header />
       <Body />
-      {/* <Footer /> */}
+      <Footer />
     </ChakraProvider>
   );
 }
